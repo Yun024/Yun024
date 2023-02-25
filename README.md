@@ -1,7 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:2c7fb8,100:7fcdbb&height=200&section=header&text=Yeojun's%20Github&fontSize=50&fontAlignY=40&fontColor=ffffff" />
 
-
-
+## 👋 HI! there
+나는 누구
+어떤걸 목표
+어떻게 하고있는지
+## 레포 소개
+## 경험
+## 교육
 
 
 ## ⚡ Git Status 
