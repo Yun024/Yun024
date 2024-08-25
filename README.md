@@ -9,7 +9,7 @@
 ## 💾 Repository
 |Number|Name|Contents|Duration|HyperLink|
 |:---:|---|---|---|---|
-|1|Programmers|알고리즘 문제풀이 by.백준허브|2023.01 ~|*[🔗](https://github.com/Yun024/Programmers)*|
+|1|Algorithm|알고리즘 문제풀이 및 수강기록|2023.01 ~|*[🔗](https://github.com/Yun024/Programmers)*|
 |2|Oracle_query|오라클 기초 및 중급 쿼리 저장용 레포지토리|2023.03 ~ 2023.12|*[🔗](https://github.com/Yun024/Oracle_query)*|
 |3|NLP_ICT_TREND|토픽모델링 기반 ICT분야 빅데이터 트렌드 분석 프로젝트|2022.09 ~ 2023.02|*[🔗](https://github.com/Yun024/NLP_ICT_Trend)*|
 |4|Bigdata_certificate|Python을 이용한 `빅데이터분석기사` <실기> 숙달 과정|2022.11 ~ 2022.12|*[🔗](https://github.com/Yun024/Bigdata_certificate)*|
