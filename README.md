@@ -31,14 +31,18 @@
 |한국지능정보사회진흥원|데이터 분석 청년인재 교육 과정|스마트 쉘터 입지 선정 프로젝트 *[🔗](https://github.com/Yun024/Smartshelter_project)*|2022.05 ~ 2022.08|
 |한국데이터베이스진흥센터|스마트시티 빅데이터 분석 및 응용 과정|이미지 딥러닝을 활용한 안전모 착용 활성화 서비스 *[🔗](https://github.com/Yun024/Helmet_project)*|2020.06 ~ 2020.09|
 
+
 ## ⚡ Git Status 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yun024&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=6495ED&count_private=true" width=49% />
+<a href="https://github.com/Yun024/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yun024&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" width=50% />
 </a>
+
 <a href="https://github.com/Yun024/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun024&layout=compact&theme=material-palenight&text_color=fff&title_color=6495ED" width=49% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun024&layout=compact&theme=catppuccin_latte" width=45% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+
+[![Yeojun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yun024&bg_color=eff1f5&color=137980&line=137980&point=4c4f69&radius=8&height=380)](https://github.com/Yun024/github-readme-activity-graph)
+
 
 
 <!--
