@@ -34,12 +34,14 @@
 
 ## ⚡ Git Status 
 <a href="https://github.com/Yun024/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yun024&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" width=50% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yun024&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/Yun024/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun024&layout=compact&theme=catppuccin_latte" width=45% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun024&layout=compact&theme=catppuccin_latte"/>
 </a>
+
+
 
 [![Yeojun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yun024&bg_color=eff1f5&color=137980&line=137980&point=4c4f69&radius=8&height=380)](https://github.com/Yun024/github-readme-activity-graph)
 
