@@ -1,4 +1,4 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=9999FF&text=Hi!%20there👋&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Yeojun's%20Github&descAlignY=70&fontColor=FFFFFF)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=9999FF&text=Hi!%20there👋&fontAlignY=45&fontSize=40&height=150&desc=Yeojun's%20Github&descAlignY=70&fontColor=FFFFFF)
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj024)](https://solved.ac/yyj024/)
