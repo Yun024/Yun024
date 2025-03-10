@@ -7,11 +7,11 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYun024&count_bg=%23B8C0E0&title_bg=%237287FD&icon=&icon_color=%234C4F69&title=hits&edge_flat=false)
 ## 📜Tech Stack
 
-<big><strong>Use well</strong></big>
+<big><strong>Many Experience</strong></big>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-plastic&logo=SQLite&logoColor=white"/>
 
-<strong>Some experience</strong> 
+<strong>Some Experience</strong> 
 <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-plastic&logo=Apache Airflow&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=Oracle%20Corporation&logoColor=white"/> 
