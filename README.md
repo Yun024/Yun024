@@ -15,12 +15,9 @@
 <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-plastic&logo=Apache Airflow&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Snowflake-1E90FF?style=flat-plastic&logo=Snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=Oracle%20Corporation&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-plastic&logo=Amazon%20Web%20Services&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Superset-4040B2?style=flat-plastic&logo=Apache Superset&logoColor=white"/>
 <img src="https://img.shields.io/badge/-R-276DC3?style=flat-plastic&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/-DA%235-1E90FF?style=flat-plastic&logo=Microsoft%20Excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-WDQ-8B0000?style=flat-plastic"/>
 
 <strong>Studying</strong> 
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
