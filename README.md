@@ -42,6 +42,6 @@
 ## ✍ Education
 |기간|교육기관|교육명|깃허브|
 |---|---|---|:---:|
-|2024.11 ~ 2025.03|Programmers|DevCourse Data Engineering|[🔗](https://github.com/Yun024/Programmers_DevCourse)|
+|2024.11 ~ 2025.03|Programmers|DevCourse Data Engineering 5기|[🔗](https://github.com/Yun024/Programmers_DevCourse)|
 |2022.05 ~ 2022.08|NIA|데이터 분석 청년인재 교육 과정|[🔗](https://github.com/Yun024/Smartshelter_project)|
 |2020.06 ~ 2020.09|K-data|스마트시티 빅데이터 분석 및 응용 과정|[🔗](https://github.com/Yun024/Helmet_project)|
