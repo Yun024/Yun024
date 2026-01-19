@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-plastic&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-plastic&logo=R&logoColor=white"/>
 
 <strong>Some Experience</strong> 
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-plastic&logo=spring&logoColor=white"/>
@@ -20,7 +21,6 @@
 <img src="https://img.shields.io/badge/-Snowflake-1E90FF?style=flat-plastic&logo=Snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-plastic&logo=Amazon%20Web%20Services&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Superset-20A6C9?style=flat-plastic&logo=apachesuperset&logoColor=white"/>
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat-plastic&logo=R&logoColor=white"/>
 
 <strong>Studying</strong> 
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
@@ -45,6 +45,7 @@
 ## ✍ Education
 |기간|교육기관|교육명|깃허브|
 |---|---|---|:---:|
+|2025.12 ~ 2026.02|Goorm|프로펙트 클라우드 엔지니어링 5기|[🔗](https://github.com/spot-ticket)|
 |2024.11 ~ 2025.03|Programmers|DevCourse Data Engineering 5기|[🔗](https://github.com/Yun024/Programmers_DevCourse)|
 |2022.05 ~ 2022.08|NIA|데이터 분석 청년인재 교육 과정|[🔗](https://github.com/Yun024/Smartshelter_project)|
 |2020.06 ~ 2020.09|K-data|스마트시티 빅데이터 분석 및 응용 과정|[🔗](https://github.com/Yun024/Helmet_project)|
