@@ -21,10 +21,10 @@
 <img src="https://img.shields.io/badge/-Snowflake-1E90FF?style=flat-plastic&logo=Snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-plastic&logo=Amazon%20Web%20Services&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Superset-20A6C9?style=flat-plastic&logo=apachesuperset&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-plastic&logo=apacheKafka&logoColor=white"/> 
 
 <strong>Studying</strong> 
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-plastic&logo=apacheKafka&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-plastic&logo=apacheSpark&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-plastic&logo=Django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/> 
