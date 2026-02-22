@@ -30,15 +30,15 @@
 <img src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-plastic&logo=amazonAWS%20Web%20Services&logoColor=white"/>
 
 <strong>Tools</strong> 
-<img src="https://img.shields.io/badge/-Superset-20A6C9?style=flat-plastic&logo=apachesuperset&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/> 
 
 <strong>Learning</strong> 
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-plastic&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-plastic&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-plastic&logo=Grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Superset-20A6C9?style=flat-plastic&logo=apachesuperset&logoColor=white"/>
   
 ## 👩‍💻 Experience
 |근무 기간|회사명|사용 기술|담당 업무|고용형태|
